@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(57, 110, 136);
+    background-color: #f6f8f9
 }
 
 header {
@@ -108,4 +108,29 @@ li {
 
 #acido {
     background-color: #b0c926 ;
+}
+
+#spunta-verde {
+    padding: 2px ;
+    display: inline-block ;
+    color: #65c0a9 ;
+    font-weight: bold ;
+    border-color: #65c0a9 ;
+    border: 1px solid ;
+    border-radius: 50% ;
+    text-align: center ;
+    line-height: 1em ;
+
+}
+
+#spunta-rossa {
+    padding: 2px ;
+    display: inline-block ;
+    color: #ea453b ;
+    font-weight: bold ;
+    border-color: #ea453b ;
+    border: 1px solid ;
+    border-radius: 50% ;
+    text-align: center ;
+    line-height: 1em ;
 }
