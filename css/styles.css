@@ -17,13 +17,15 @@ header {
 
 #logo {
     vertical-align: middle;
-    height: 80% ;
-    margin: 10px 0 8px 10px ;
+    height: 70% ;
+    margin: 10px 0 6px 10px ;
   
 }
 
 #logo-text {
     vertical-align: middle ;
+    font-weight: bolder;
+    font-size: 2.5em;
     
 }
 
@@ -37,26 +39,26 @@ main {
     border-radius: 5px ;
     background-color: white ;
     margin-bottom: 2px;
-    padding: 10px 0 10px 15px ;
+    padding: 10px 0 10px 50px ;
 }
 
 #pulsante1 {
     vertical-align: middle ;
     text-align: center ;
-    padding: 5px ;
+    padding: 5px 7px 5px 7px ;
     border: none ;
     background-color: #47adf1 ;
-    border-radius: 3px ;
+    border-radius: 4px ;
     color: white ;
 }
 
 #pulsante2 {
     vertical-align: middle ;
     text-align: center ;
-    padding: 5px ;
+    padding: 5px 7px 5px 7px ;
     border: 1px solid #d4d8dc ;
     background-color: white ;
-    border-radius: 3px ;
+    border-radius: 4px ;
     color: #d4d8dc ;
 }
 
@@ -64,18 +66,24 @@ main {
     height: 800px;
     background-color: white ;
     border-radius: 5px;
+    padding-left: 35px;
+    padding-top: 30px ;
 }
 
 ul{
     list-style: none;
-}
+    margin: 10px;}
 
+li {
+    padding: 10px ;
+    
+}
 .etichette {
     border-radius: 12px ;
     color: white ;
-    font-size: 0.6em ;
+    font-size: 0.8em ;
     display: inline-block ;
-    padding: 4px 8px 4px 8px ;
+    padding: 4px 10px 4px 10px ;
 }
 
 #azzurro {
